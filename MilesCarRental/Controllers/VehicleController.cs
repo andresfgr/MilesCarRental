@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using MilesCarRental.EntityModels;
 using MilesCarRental.Interfaces;
 
-namespace BoxMachineInventary.Controllers
+namespace MilesCarRental.Controllers
 {
     /// <summary>
     /// Controlador para la gestión de vehículos.

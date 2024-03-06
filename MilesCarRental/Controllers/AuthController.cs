@@ -7,7 +7,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 
-namespace BoxMachineInventaryAPI.Controllers
+namespace MilesCarRental.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
